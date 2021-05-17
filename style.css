@@ -10,8 +10,5 @@ body {
   margin-right: 1rem;
   font-family: sans-serif;
   text-align: center;
-}
-
-footer {
-  color: white;
+  overflow: auto;
 }
