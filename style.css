@@ -1,10 +1,10 @@
 body {
-font-family: sans-serif;
-color: white;
-background-color: black;
+  font-family: sans-serif;
+  color: white;
+  background-color: black;
 }
 
-h1 {
-  display: flex;
-  align-items: center;
+.layout {
+  display: grid;
+  grid-template-rows: auto 1fr auto;
 }
