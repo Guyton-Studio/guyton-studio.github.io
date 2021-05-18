@@ -6,6 +6,7 @@ body {
   color: white;
   background-color: black;
   font-family: sans-serif;
+  margin: 1.5em;
 }
 
 a {
@@ -15,4 +16,8 @@ a {
 
 a:hover {
   color: blue;
+}
+
+h4 {
+  margin-block-start: 0em;
 }
