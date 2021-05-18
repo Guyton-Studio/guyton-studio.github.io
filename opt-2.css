@@ -1,0 +1,19 @@
+body {
+  display: flex;
+  justify-content: space-between;
+  height: 100vh;
+  grid-template-columns: 1fr 1fr;
+  color: white;
+  background-color: black;
+  font-family: sans-serif;
+}
+
+a {
+  text-align: right;
+  color: white;
+  text-decoration: none;
+}
+
+a:hover {
+  color: blue;
+}
