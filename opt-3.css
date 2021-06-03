@@ -1,0 +1,21 @@
+body {
+  height: 100vh;
+  color: white;
+  background-color: black;
+  font-family: Helvetica; sans-serif;
+  margin: 1.5em;
+}
+
+a {
+  text-decoration: none;
+  padding: 0;
+}
+
+a:hover {
+  color: red;
+}
+
+h4 {
+  margin-block-start: 0em;
+  color:red;
+}
