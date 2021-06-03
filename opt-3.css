@@ -4,18 +4,18 @@ body {
   background-color: black;
   font-family: Helvetica; sans-serif;
   margin: 1.5em;
+  line-height: 1.4;
+}
+
+h4 {
+  color: red;
 }
 
 a {
   text-decoration: none;
-  padding: 0;
+  color: white;
 }
 
 a:hover {
-  color: red;
-}
-
-h4 {
-  margin-block-start: 0em;
-  color:red;
+  color: blue;
 }
